@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMiddlewarePipeline", "GenericMiddlewarePipeline\GenericMiddlewarePipeline.csproj", "{D59D0E31-299E-4AE3-A49D-4F71862C1030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMiddlewarePipeline.Tests", "GenericMiddlewarePipeline.Tests\GenericMiddlewarePipeline.Tests.csproj", "{C9121108-A74B-47B2-BD04-A508009E23DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{07D168AF-E883-4AC5-B7F4-59BBC35A39C7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59D0E31-299E-4AE3-A49D-4F71862C1030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59D0E31-299E-4AE3-A49D-4F71862C1030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59D0E31-299E-4AE3-A49D-4F71862C1030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59D0E31-299E-4AE3-A49D-4F71862C1030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9121108-A74B-47B2-BD04-A508009E23DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9121108-A74B-47B2-BD04-A508009E23DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9121108-A74B-47B2-BD04-A508009E23DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9121108-A74B-47B2-BD04-A508009E23DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B30B024-9F02-45D0-A287-92B62D3476DF}
+	EndGlobalSection
+EndGlobal
