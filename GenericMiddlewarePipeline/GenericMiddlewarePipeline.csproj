@@ -6,7 +6,12 @@
     <Nullable>enable</Nullable>
     <DebugType>Full</DebugType>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
-    <Version>0</Version>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Generic Middleware Pipeline inspired by ASP.NET Core Middleware</Description>
+    <PackageProjectUrl>https://github.com/DanielEgbers/GenericMiddlewarePipeline</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DanielEgbers/GenericMiddlewarePipeline</RepositoryUrl>
+    <PackageTags>Generic Middleware Pipeline ASP.NET Core</PackageTags>
   </PropertyGroup>
 
 </Project>
